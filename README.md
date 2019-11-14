@@ -1,7 +1,5 @@
 # Modelos de Machine Learning utilizando o dataset "mushrooms.csv".
 
-O dataset pode ser encontrado no seguinte link:
-
 
 ### Requer:
 
